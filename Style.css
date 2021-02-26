@@ -1,0 +1,15 @@
+#myCarousel img{
+    margin-top:200px;
+    height: 300px;
+    width:300px;
+}
+#myCarousel
+{
+    background-color: red;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:beige;
+    font-size: 20px;
+}
